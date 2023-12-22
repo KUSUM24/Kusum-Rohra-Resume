@@ -45,7 +45,6 @@
 }
 .achievements ul li a {
   color: black;
-  /* text-decoration: ; */
 }
 .achievements ul li a:hover {
   text-decoration: underline;
