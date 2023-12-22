@@ -43,6 +43,14 @@
 .education-section .year-cgpa-main {
   font-weight: bold;
 }
+.achievements ul li a {
+  color: black;
+  /* text-decoration: ; */
+}
+.achievements ul li a:hover {
+  text-decoration: underline;
+  color: #3f51b5;
+}
 .google-certificate-link {
   font-size: 15px;
   font-weight: bold;
